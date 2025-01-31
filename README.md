@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boasiakolois
+- 👋 Hi, I’m Lois Boasiako
 - 👀 I’m interested in anime, putting outfits together, traveling,trying new things,and continuously growing.
 - 🌱 I’m currently learning how to be a full stack engineer, content creator, follower of Christ, and a how to positively better myself.
 - 💞️ I’m looking to get job experience.
