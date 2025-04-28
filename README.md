@@ -4,7 +4,7 @@
 - 💞️ I’m looking to get job experience.
 - 📫 How to reach me by my email @boasiakolois@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I lived in Ghana for a total of 6 years.
+- ⚡ Fun fact: I lived in Ghana for a total of 5 years.
 
 <!---
 boasiakolois/boasiakolois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
