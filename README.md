@@ -5,9 +5,13 @@
 
 💻 Aspiring Full-Stack Web Developer
 I’m passionate about building responsive, user-centered applications that blend technology and creativity. My current focus includes:
+
 Frontend: HTML, CSS, JavaScript, React
+
 Backend: Node.js, Express, APIs
+
 Tools: Git, GitHub, VS Code, Figma
+
 Exploring emerging areas like AI, Blockchain, and automation
 
 
