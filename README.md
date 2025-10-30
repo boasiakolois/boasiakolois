@@ -8,7 +8,7 @@ I’m passionate about building responsive, user-centered applications that blen
 
 Frontend: HTML, CSS, JavaScript, React
 
-Backend: Node.js, Express, APIs
+Backend: Node.js, Python, APIs
 
 Tools: Git, GitHub, VS Code, Figma
 
